@@ -1,0 +1,39 @@
+_repo: Eccentricities-of-the-Animal-Creation._44422
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44422-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Timbs, John
+    alias: Welby, Horace
+    birthdate: 1801
+    deathdate: 1875
+    gutenberg_agent_id: '40389'
+    url: http://www.gutenberg.org/2009/agents/40389
+description: ''
+gutenberg_issued: '2013-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44422'
+  lccn: '04030044'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Anecdotes'
+- !lcsh 'Animals, Mythical'
+- !lcc 'QL'
+- !lcsh 'Animal behavior'
+tableOfContents: 'Introductory: curiosities of zoology -- The Rhinoceros in England
+  -- Stories of Mermaids -- Is the Unicorn fabulous? -- The Mole at home -- The great
+  Ant-Bear -- Curiosities of Bats -- The Hedgehog -- The Hippopotamus in England --
+  Lion-talk -- Bird-life -- Bird''s eggs and nests -- The epicure''s Ortolan -- Talk
+  about Toucans -- Eccentricities of Penguins -- Pelicans and Cormorants -- Talking
+  birds, instincts, etc. -- Owls -- Weather-wise animals -- Fish-talk -- Fish in British
+  Colombia [i.e. Columbia] -- The tree-climbing Crab -- Musical Lizards -- Chameleons
+  and their changes -- Running Toads -- Song of the Cicada -- Stories about the Barnacle
+  Goose -- Leaves about Bookworms -- Boring marine animals, and human engineers.'
+title: Eccentricities of the Animal Creation.
+url: http://www.gutenberg.org/ebooks/44422
